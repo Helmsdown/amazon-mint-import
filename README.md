@@ -33,5 +33,5 @@ The author takes no responsibility for your use of this code. Use it at your own
 ## Mint Engineers and PMs
 
 If you happen to work on Mint or know someone who does. Please refer them to this repo so they can see
-how I am overcoming this feature gap. I would **love** to buy a a Mint engineer or PM lunch and talk about te product
+how I am overcoming this feature gap. I would **love** to buy a a Mint engineer or PM lunch and talk about the product
 and where I think it could be improved. 
